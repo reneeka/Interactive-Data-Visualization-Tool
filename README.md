@@ -1,6 +1,6 @@
 # Interactive Data Visualization Tool using JavaFX
 
-This project is co-owned by: [@chahelgupta](https://www.github.com/chahelgupta) [@amishidesai](https://www.github.com/AmishiDesai04) [@reneeka](https://www.github.com/reneeka)
+This project is co-owned by: [@reneeka](https://www.github.com/reneeka) [@chahelgupta](https://www.github.com/chahelgupta) [@amishidesai](https://www.github.com/AmishiDesai04) 
 
 ## Overview
 The JavaFX project aims to build an interactive data visualization tool offering Pie Charts, Bar Graphs, and Line Graphs. Users can input data for each chart type, customize visual aspects like colors and labels, and interact with zooming and tooltips. The project focuses on providing a user-friendly experience, robust data validation, and comprehensive documentation.
